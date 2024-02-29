@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "My_Components")(type "KiCad")(uri "${KIPRJMOD}/compo/My_Components.pretty")(options "")(descr ""))
+  (lib (name "ESP8266")(type "KiCad")(uri "${KIPRJMOD}/compo/ESP8266.pretty")(options "")(descr ""))
+  (lib (name "TG9541")(type "KiCad")(uri "${KIPRJMOD}/compo/TG9541.pretty")(options "")(descr ""))
+  (lib (name "w_conn_av")(type "KiCad")(uri "${KIPRJMOD}/compo/w_conn_av.pretty")(options "")(descr ""))
+)

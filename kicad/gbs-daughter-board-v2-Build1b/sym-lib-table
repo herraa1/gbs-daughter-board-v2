@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP8266")(type "KiCad")(uri "${KIPRJMOD}/compo/ESP8266.kicad_sym")(options "")(descr ""))
+  (lib (name "my_components")(type "KiCad")(uri "${KIPRJMOD}/compo/my_components.kicad_sym")(options "")(descr ""))
+  (lib (name "sw_dpdt_xlx")(type "KiCad")(uri "${KIPRJMOD}/compo/sw_dpdt_xlx.kicad_sym")(options "")(descr ""))
+)
